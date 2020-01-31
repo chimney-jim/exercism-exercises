@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jim.fitzgerald/Exercism/scala/matching-brackets/src/main/scala/MatchingBrackets.scala:5:22: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    isPaired(s.tail, )[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jim.fitzgerald/Exercism/scala/matching-brackets/src/main/scala/MatchingBrackets.scala:6:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

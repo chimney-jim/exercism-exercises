@@ -1,0 +1,4 @@
+Twofer.twofer("Alice")
+:load Twofer.scala
+:load src/main/scala/Twofer.scala
+:load
